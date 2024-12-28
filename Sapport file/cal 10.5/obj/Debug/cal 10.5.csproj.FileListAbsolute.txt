@@ -1,0 +1,10 @@
+D:\Esoft\cal 10.5\cal 10.5\bin\Debug\cal 10.5.exe.config
+D:\Esoft\cal 10.5\cal 10.5\bin\Debug\cal 10.5.exe
+D:\Esoft\cal 10.5\cal 10.5\bin\Debug\cal 10.5.pdb
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal 10.5.csproj.AssemblyReference.cache
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal_10._5.Form1.resources
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal_10._5.Properties.Resources.resources
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal 10.5.csproj.GenerateResource.cache
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal 10.5.csproj.CoreCompileInputs.cache
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal 10.5.exe
+D:\Esoft\cal 10.5\cal 10.5\obj\Debug\cal 10.5.pdb
